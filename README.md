@@ -216,7 +216,7 @@ README.md
 ### 📥 Clone This Repository
 
 ```bash
-git clone YOUR_REPOSITORY_LINK_HERE
+git clone https://github.com/hafsa-ali-data-analyst/global-happiness-inflation-analysis.git
 cd Global_Happiness_Inflation_Analysis_Dashboard
 ```
 ### 📌 Conclusion
