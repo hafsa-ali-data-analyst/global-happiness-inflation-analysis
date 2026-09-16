@@ -217,7 +217,6 @@ README.md
 
 ```bash
 git clone https://github.com/hafsa-ali-data-analyst/global-happiness-inflation-analysis.git
-cd Global_Happiness_Inflation_Analysis_Dashboard
 ```
 ### 📌 Conclusion
 This project demonstrates an end-to-end data analytics workflow using Microsoft Excel, from raw data preparation to interactive dashboard creation. The analysis highlights how economic indicators such as GDP per Capita relate to happiness while enabling users to explore trends through dynamic visualizations and slicers. The project showcases practical Excel skills commonly used in business intelligence and data analytics roles.
