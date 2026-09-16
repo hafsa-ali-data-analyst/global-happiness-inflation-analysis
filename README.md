@@ -152,15 +152,15 @@ The interactive dashboard includes:
 
 ### 💡 Key Insights
 
-1. North America & ANZ recorded the highest average happiness score, while Sub-Saharan Africa recorded the lowest average happiness score.
+1. North America & ANZ recorded the highest average happiness score at **7.18**, while Sub-Saharan Africa recorded the lowest at **4.26**.
 
-2. The Top 10 Happiest Countries consistently outperformed the Bottom 10 Countries in terms of overall happiness scores.
+2. **Finland** recorded the highest average happiness score, while **Afghanistan** recorded the lowest among the countries analyzed.
 
-3. Global happiness remained relatively stable between 2015 and 2023 with only gradual year-to-year changes.
+3. Global average happiness increased gradually from **5.43 in 2015** to **5.60 in 2023**, indicating relatively stable year-to-year changes.
 
-4. A positive relationship exists between GDP per Capita and Happiness Score, indicating that countries with stronger economies generally report higher happiness levels.
+4. A positive relationship exists between GDP per Capita and Happiness Score, with the overall average GDP per Capita at **1.03** and average Happiness Score at **5.50**.
 
-5. Regional comparisons reveal significant differences in happiness levels across continents, highlighting varying economic and social conditions.
+5. The analysis covers **148 countries**, with average headline inflation of **7.29**, highlighting differences in economic and happiness indicators across regions.
 
 ---
 
@@ -213,8 +213,13 @@ README.md
 
 ---
 
-### 📌 Conclusion
+### 📥 Clone This Repository
 
+```bash
+git clone YOUR_REPOSITORY_LINK_HERE
+cd Global_Happiness_Inflation_Analysis_Dashboard
+```
+### 📌 Conclusion
 This project demonstrates an end-to-end data analytics workflow using Microsoft Excel, from raw data preparation to interactive dashboard creation. The analysis highlights how economic indicators such as GDP per Capita relate to happiness while enabling users to explore trends through dynamic visualizations and slicers. The project showcases practical Excel skills commonly used in business intelligence and data analytics roles.
 
 ---
