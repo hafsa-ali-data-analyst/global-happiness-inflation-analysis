@@ -1,6 +1,6 @@
-# 🌍 Global Happiness & Inflation Analysis Dashboard
+# Global Happiness & Inflation Analysis Dashboard
 
-### 📌 Project Overview
+## Project Overview
 
 This project presents an end-to-end data analysis of the **Global Happiness & Inflation Dataset** using **Microsoft Excel**. The objective was to clean and prepare the dataset, perform Exploratory Data Analysis (EDA), analyze relationships between economic and happiness indicators and build an interactive dashboard to uncover meaningful insights.
 
@@ -8,7 +8,7 @@ The project demonstrates practical Excel skills including data cleaning, missing
 
 ---
 
-### 🎯 Project Objectives
+## Project Objectives
 
 - Clean and prepare the dataset for analysis.
 - Handle missing values using appropriate statistical techniques.
@@ -20,7 +20,7 @@ The project demonstrates practical Excel skills including data cleaning, missing
 
 ---
 
-### 🛠️ Tools & Features Used
+## Tools & Features Used
 
 - Microsoft Excel
 - Excel Tables
@@ -38,7 +38,7 @@ The project demonstrates practical Excel skills including data cleaning, missing
 
 ---
 
-### 📂 Dataset Information
+## Dataset Information
 
 The dataset contains global economic and happiness indicators for multiple countries between **2015 and 2023**.
 
@@ -63,7 +63,7 @@ The dataset contains global economic and happiness indicators for multiple count
 
 ---
 
-### 🧹 Data Cleaning
+## Data Cleaning
 
 The following preprocessing steps were performed before analysis:
 
@@ -78,7 +78,7 @@ The following preprocessing steps were performed before analysis:
 
 ---
 
-### 📊 Descriptive Statistics
+## Descriptive Statistics
 
 Calculated descriptive statistics for all numerical columns including:
 
@@ -92,7 +92,7 @@ These statistics were used to understand the data distribution and determine app
 
 ---
 
-### 📈 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 Performed exploratory analysis to answer key business questions including:
 
@@ -107,7 +107,7 @@ Performed exploratory analysis to answer key business questions including:
 
 ---
 
-### 🔍 Relationship Analysis
+## Relationship Analysis
 
 Scatter plots with trendlines were created to understand relationships between variables.
 
@@ -123,7 +123,7 @@ Trendlines and **R² values** were used to understand the strength and direction
 
 ---
 
-### 📊 Dashboard Features
+## Dashboard Features
 
 The interactive dashboard includes:
 
@@ -150,7 +150,7 @@ The interactive dashboard includes:
 
 ---
 
-### 💡 Key Insights
+## Key Insights
 
 1. North America & ANZ recorded the highest average happiness score at **7.18**, while Sub-Saharan Africa recorded the lowest at **4.26**.
 
@@ -164,7 +164,7 @@ The interactive dashboard includes:
 
 ---
 
-### ✅ Recommendations
+## Recommendations
 
 - Countries with lower happiness scores should study the economic and social policies adopted by higher-performing countries to identify practices that could improve overall well-being.
 
@@ -178,7 +178,7 @@ The interactive dashboard includes:
 
 ---
 
-### 📷 Dashboard Preview
+## Dashboard Preview
 
 The dashboard provides an interactive overview of global happiness and economic indicators. It includes KPI cards, trend analysis, continent-wise comparisons, country rankings, relationship analysis, and interactive slicers for dynamic exploration.
 
@@ -186,7 +186,7 @@ The dashboard provides an interactive overview of global happiness and economic 
 
 ---
 
-### 📁 Repository Contents
+## Repository Contents
 
 ```
 Global_Happiness_Inflation_Analysis_Dashboard.xlsx
@@ -196,7 +196,7 @@ README.md
 
 ---
 
-### 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Preprocessing
@@ -213,17 +213,19 @@ README.md
 
 ---
 
-### 📥 Clone This Repository
+## Clone This Repository
 
 ```bash
 git clone https://github.com/hafsa-ali-data-analyst/global-happiness-inflation-analysis.git
 ```
-### 📌 Conclusion
+---
+
+## Conclusion
 This project demonstrates an end-to-end data analytics workflow using Microsoft Excel, from raw data preparation to interactive dashboard creation. The analysis highlights how economic indicators such as GDP per Capita relate to happiness while enabling users to explore trends through dynamic visualizations and slicers. The project showcases practical Excel skills commonly used in business intelligence and data analytics roles.
 
 ---
 
-### 👩‍💻 Author
+## Author
 
 **Hafsa Ali**
 
